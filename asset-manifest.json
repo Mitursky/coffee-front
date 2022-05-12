@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.aed49d4a.chunk.css",
-    "main.js": "/static/js/main.f199eb84.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.67f03ce0.js",
-    "static/css/2.e923fc8e.chunk.css": "/static/css/2.e923fc8e.chunk.css",
-    "static/js/2.22df1f3d.chunk.js": "/static/js/2.22df1f3d.chunk.js",
-    "static/js/3.63233164.chunk.js": "/static/js/3.63233164.chunk.js",
-    "index.html": "/index.html",
-    "static/js/2.22df1f3d.chunk.js.LICENSE.txt": "/static/js/2.22df1f3d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Montserrat-Regular.ac98a5f5.ttf",
-    "static/media/bg.995710f8.png": "/static/media/bg.995710f8.png",
-    "static/media/story.dce672fd.png": "/static/media/story.dce672fd.png"
+    "main.css": "/coffee-front/static/css/main.45a57d8f.chunk.css",
+    "main.js": "/coffee-front/static/js/main.f199eb84.chunk.js",
+    "runtime-main.js": "/coffee-front/static/js/runtime-main.59f8cd65.js",
+    "static/css/2.e923fc8e.chunk.css": "/coffee-front/static/css/2.e923fc8e.chunk.css",
+    "static/js/2.22df1f3d.chunk.js": "/coffee-front/static/js/2.22df1f3d.chunk.js",
+    "static/js/3.63233164.chunk.js": "/coffee-front/static/js/3.63233164.chunk.js",
+    "index.html": "/coffee-front/index.html",
+    "static/js/2.22df1f3d.chunk.js.LICENSE.txt": "/coffee-front/static/js/2.22df1f3d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/coffee-front/static/media/Montserrat-Regular.ac98a5f5.ttf",
+    "static/media/bg.995710f8.png": "/coffee-front/static/media/bg.995710f8.png",
+    "static/media/story.dce672fd.png": "/coffee-front/static/media/story.dce672fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.67f03ce0.js",
+    "static/js/runtime-main.59f8cd65.js",
     "static/css/2.e923fc8e.chunk.css",
     "static/js/2.22df1f3d.chunk.js",
-    "static/css/main.aed49d4a.chunk.css",
+    "static/css/main.45a57d8f.chunk.css",
     "static/js/main.f199eb84.chunk.js"
   ]
 }
