@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coffee-front/static/css/main.45a57d8f.chunk.css",
-    "main.js": "/coffee-front/static/js/main.d6846808.chunk.js",
+    "main.js": "/coffee-front/static/js/main.4fcc774e.chunk.js",
     "runtime-main.js": "/coffee-front/static/js/runtime-main.59f8cd65.js",
     "static/css/2.e923fc8e.chunk.css": "/coffee-front/static/css/2.e923fc8e.chunk.css",
     "static/js/2.22df1f3d.chunk.js": "/coffee-front/static/js/2.22df1f3d.chunk.js",
@@ -17,6 +17,6 @@
     "static/css/2.e923fc8e.chunk.css",
     "static/js/2.22df1f3d.chunk.js",
     "static/css/main.45a57d8f.chunk.css",
-    "static/js/main.d6846808.chunk.js"
+    "static/js/main.4fcc774e.chunk.js"
   ]
 }
